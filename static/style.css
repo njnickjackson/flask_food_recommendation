@@ -1,7 +1,6 @@
 * {
     font-family: Candara;
     letter-spacing: 4px;
-    padding: 0;
     margin: 0;
 }
 
@@ -62,5 +61,27 @@
 
 .least {
     font-size: 3rem;
-    padding: 200px 0px 0px 195px;
+    padding: 225px 0px 0px 195px;
+    color: black;
+}
+
+.columns {
+    display: flex;
+}
+
+.left-pic {
+    width: 250px;
+    height: 200px;
+    margin-left: 290px;
+    margin-top: 60px;
+    margin-right: 40px;
+    border: 15px solid white;
+}
+
+.right-pic {
+    width: 250px;
+    height: 200px;
+    margin-right: 300px;
+    margin-top: 60px;
+    border: 15px solid white;
 }
