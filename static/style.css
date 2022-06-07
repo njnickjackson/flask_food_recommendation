@@ -13,7 +13,7 @@
 }
 
 .recommendation {
-    color: wheat;
+    color: white;
     text-align: center;
     font-size: 25px;
     padding: 150px 10px 10px 500px;
@@ -40,7 +40,7 @@
     border: 3px solid black;
     position: center;
     z-index: 1;
-    background-color: wheat;
+    background-color: white;
     margin: 75px 10px 10px 500px;
 
 }
@@ -60,11 +60,11 @@
 }
 
 .least {
-    font-size: 3.1rem;
-    padding: 90px 0px 0px 180px;
+    font-size: 2.7rem;
+    padding: 110px 0px 0px 170px;
     color: black;
-    -webkit-text-stroke-width: 1px;
-    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 .columns {
@@ -76,23 +76,23 @@
     margin-left: 40px;
     margin-top: 40px;
     padding: 0;
-    background: 30px lightgray;
+    background: 30px white;
     border: 5px solid black;
 }
 
 .left-pic {
-    width: 250px;
-    height: 200px;
-    margin-left: 290px;
-    margin-top: 60px;
+    width: 300px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top: 40px;
     margin-right: 40px;
-    border: 15px solid white;
+    border: 10px solid white;
 }
 
 .right-pic {
-    width: 250px;
-    height: 200px;
-    margin-right: 300px;
-    margin-top: 60px;
-    border: 15px solid white;
+    width: 300px;
+    height: 250px;
+    margin-right: 100px;
+    margin-top: 40px;
+    border: 10px solid white;
 }
