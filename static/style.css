@@ -61,7 +61,7 @@
 
 .least {
     font-size: 3.1rem;
-    padding: 225px 0px 0px 180px;
+    padding: 90px 0px 0px 180px;
     color: black;
     -webkit-text-stroke-width: 1px;
     -webkit-text-stroke-color: white;
@@ -69,6 +69,15 @@
 
 .columns {
     display: flex;
+}
+
+.home-symbol {
+    width: 75px;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding: 0;
+    background: 30px lightgray;
+    border: 5px solid black;
 }
 
 .left-pic {
