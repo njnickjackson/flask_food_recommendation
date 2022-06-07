@@ -62,9 +62,9 @@
 .least {
     font-size: 3.1rem;
     padding: 225px 0px 0px 180px;
-    color: white;
-    -webkit-text-stroke-width: 2px;
-    -webkit-text-stroke-color: black;
+    color: black;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: white;
 }
 
 .columns {
