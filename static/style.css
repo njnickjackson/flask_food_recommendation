@@ -60,9 +60,11 @@
 }
 
 .least {
-    font-size: 3rem;
-    padding: 225px 0px 0px 195px;
-    color: black;
+    font-size: 3.1rem;
+    padding: 225px 0px 0px 180px;
+    color: white;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
 }
 
 .columns {
